@@ -23,5 +23,7 @@
     fontFamily: "Source Code Pro Medium"
     fontSize: 15
     zoomFontWhenCtrlScrolling: false
+  "linter-rust":
+    cargoCommand: "rustc"
   welcome:
     showOnStartup: false
