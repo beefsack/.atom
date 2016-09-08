@@ -15,6 +15,7 @@
     autoHideMenuBar: true
     automaticallyUpdate: false
     openEmptyEditorOnStart: false
+    restorePreviousWindowsOnStart: false
     themes: [
       "one-dark-ui"
       "dracula-theme"
