@@ -1,0 +1,27 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "55b478a5-6e7f-4030-8be9-3204ba779ce9"
+    js:
+      beautify_on_save: true
+      default_beautifier: "Pretty Diff"
+      indent_size: 2
+    jsx:
+      beautify_on_save: true
+      indent_size: 2
+    rust:
+      beautify_on_save: true
+  core:
+    autoHideMenuBar: true
+    automaticallyUpdate: false
+    openEmptyEditorOnStart: false
+    themes: [
+      "one-dark-ui"
+      "dracula-theme"
+    ]
+  editor:
+    fontFamily: "Source Code Pro Medium"
+    fontSize: 15
+    zoomFontWhenCtrlScrolling: false
+  welcome:
+    showOnStartup: false
