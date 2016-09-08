@@ -1,0 +1,5 @@
+*
+!/.gitignore
+!/config.cson
+!/projects.cson
+!/styles.less
