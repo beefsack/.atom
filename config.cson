@@ -21,7 +21,7 @@
       "dracula-theme"
     ]
   editor:
-    fontFamily: "Source Code Pro Medium"
+    fontFamily: "Source Code Pro Semibold"
     fontSize: 15
     zoomFontWhenCtrlScrolling: false
   "linter-rust":
